@@ -1,0 +1,21 @@
+.test-link{
+    color: gold;
+}
+
+/* .test-link:hover{
+    color:green
+}
+
+.test-link:focus{
+    color: green;
+} */
+
+
+.test-link:hover,
+.test-link:focus{
+    color:green
+}
+
+.test-link:active{
+    color: cornflowerblue;
+}
